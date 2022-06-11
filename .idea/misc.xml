@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/ic_baseline_favorite_border_24.xml" value="0.2715" />
+        <entry key="app/src/main/res/drawable/ic_circle.xml" value="0.2715" />
+        <entry key="app/src/main/res/drawable/ic_circle_dark.xml" value="0.2715" />
+        <entry key="app/src/main/res/drawable/ic_favorite_fill.xml" value="0.2715" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_recipe_feed.xml" value="0.34283599853515634" />
+        <entry key="app/src/main/res/layout/item_recipe.xml" value="0.7290402502871458" />
+        <entry key="app/src/main/res/layout/recipe_feed_fragment.xml" value="0.40260416666666665" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
